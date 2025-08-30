@@ -20,3 +20,13 @@ This project demonstrates how to use **Puppeteer** (a Node.js library for contro
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
+2. Install dependencies:
+  npm install
+3. Run the script:
+  node index.js
+
+📌 Requirements
+
+Node.js (>=14.x recommended)
+Puppeteer
+
